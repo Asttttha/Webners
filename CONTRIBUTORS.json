@@ -201,6 +201,12 @@
         "name": "Paintry Website",
         "description": "Website for artists to upload their arts and design and interact with other artists.",
         "link": "https://github.com/Abbhiishek/Webners/issues/27"
+      },
+      {
+        "id": 2,
+        "name": "Notes App using JS ",
+        "description": "Stores notes with time as well as date, which can be edited or deleted later.",
+        "link": "https://github.com/Abbhiishek/Webners/issues/46"
       }
     ],
     "Academics": "BTech, Information Technology",
